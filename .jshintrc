@@ -19,8 +19,8 @@
   "trailing": true,
   "smarttabs": true,
   "loopfunc": true,
+  "jquery": true,
   "globals": {
-    "angular": false,
-    "$": false
+    "angular": false
   }
 }
